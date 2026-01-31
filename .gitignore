@@ -1,0 +1,18 @@
+# Ignorar pastas de build
+bin/
+obj/
+
+# Arquivos de configuração do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configurações do Visual Studio
+.vs/
+
+# Arquivos temporários e de backup
+*.log
+*.tmp
+*.bak
+*.backup
