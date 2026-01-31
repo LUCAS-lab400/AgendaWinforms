@@ -1,0 +1,14 @@
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\bin\Debug\net9.0-windows\AgendaForms.exe
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\bin\Debug\net9.0-windows\AgendaForms.deps.json
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\bin\Debug\net9.0-windows\AgendaForms.runtimeconfig.json
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\bin\Debug\net9.0-windows\AgendaForms.dll
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\bin\Debug\net9.0-windows\AgendaForms.pdb
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.AssemblyInfoInputs.cache
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.AssemblyInfo.cs
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.dll
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\refint\AgendaForms.dll
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.pdb
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\AgendaForms.genruntimeconfig.cache
+C:\Users\Keith\Documents\TESTE C#iniciante\Proejeto4\AgendaForms\obj\Debug\net9.0-windows\ref\AgendaForms.dll
